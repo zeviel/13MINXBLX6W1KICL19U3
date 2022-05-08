@@ -1,4 +1,4 @@
-# AminoBlogWikiClique
+# 13MINXBLX6W1KICL19U3
 Amino Blog and Wiki's Spam Bot
 
 ## Termux
@@ -10,7 +10,7 @@ Amino Blog and Wiki's Spam Bot
 - pip install amino.py
 - pip install pyfiglet
 - pip install tabulate
-- git clone https://github.com/deluvsushi/AminoBlogWikiClique
-- cd AminoBlogWikiClique
-- python AminoBlogWikiClique.py
+- git clone https://github.com/deluvsushi/13MINXBLX6W1KICL19U3
+- cd 13MINXBLX6W1KICL19U3
+- python 13MINXBLX6W1KICL19U3.py
 ```
