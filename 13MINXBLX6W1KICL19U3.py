@@ -5,7 +5,7 @@ from configs import main_functions, menu_configs
 print(f"""{fg(110)}
 Script by DeLuvSushi
 Github : https://github.com/deluvsushi""")
-print(figlet_format("aminoblogwikiclique", font="slant", width=55))
+print(figlet_format("13MINXBLX6W1KICL19U3", font="slant", width=55))
 print(tabulate(menu_configs.main_menu, tablefmt="fancy_grid"))
 select = int(input("-- Select::: "))
 
