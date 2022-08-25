@@ -10,7 +10,7 @@ Amino Blog and Wiki's Spam Bot
 - pip install amino.py
 - pip install pyfiglet
 - pip install tabulate
-- git clone https://github.com/deluvsushi/13MINXBLX6W1KICL19U3
+- git clone https://github.com/zeviel/13MINXBLX6W1KICL19U3
 - cd 13MINXBLX6W1KICL19U3
 - python 13MINXBLX6W1KICL19U3.py
 ```
