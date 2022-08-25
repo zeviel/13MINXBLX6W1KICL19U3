@@ -3,8 +3,8 @@ from tabulate import tabulate
 from pyfiglet import figlet_format
 from configs import main_functions, menu_configs
 print(f"""{fg(110)}
-Script by DeLuvSushi
-Github : https://github.com/deluvsushi""")
+Script by zeviel
+Github : https://github.com/zeviel""")
 print(figlet_format("13MINXBLX6W1KICL19U3", font="slant", width=55))
 print(tabulate(menu_configs.main_menu, tablefmt="fancy_grid"))
 select = int(input("-- Select::: "))
